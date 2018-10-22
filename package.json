@@ -1,0 +1,24 @@
+{
+  "name": "wa-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bueggi/weekly-assessment-5-Christopher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bueggi/weekly-assessment-5-Christopher/issues"
+  },
+  "homepage": "https://github.com/Bueggi/weekly-assessment-5-Christopher#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0"
+  }
+}
